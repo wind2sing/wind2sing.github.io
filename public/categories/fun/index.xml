@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fun on My New Hugo Site</title>
-    <link>http://example.org/categories/fun/</link>
-    <description>Recent content in Fun on My New Hugo Site</description>
+    <title>Fun on Deep Forest</title>
+    <link>http://wind2sing.github.io/categories/fun/</link>
+    <description>Recent content in Fun on Deep Forest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Oct 2023 22:00:04 +0800</lastBuildDate><atom:link href="http://example.org/categories/fun/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Oct 2023 22:00:04 +0800</lastBuildDate><atom:link href="http://wind2sing.github.io/categories/fun/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>第一篇测试文章</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <title>测试文章</title>
+      <link>http://wind2sing.github.io/posts/my-first-post/</link>
       <pubDate>Sun, 29 Oct 2023 22:00:04 +0800</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>http://wind2sing.github.io/posts/my-first-post/</guid>
       <description>这是第一篇文章。用作测试。</description>
     </item>
     
