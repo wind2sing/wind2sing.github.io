@@ -16,14 +16,5 @@
       <description>这是第一篇文章。用作测试。</description>
     </item>
     
-    <item>
-      <title></title>
-      <link>http://wind2sing.github.io/posts/untitled/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://wind2sing.github.io/posts/untitled/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
