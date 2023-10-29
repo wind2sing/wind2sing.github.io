@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://wind2sing.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Deep Forest'
 theme = 'yinyang'
 [params]
 headTitle = "Deep Forest"
