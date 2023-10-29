@@ -1,0 +1,12 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'yinyang'
+[params]
+headTitle = "Deep Forest"
+mainSections = ["posts"]
+
+
+[[params.socials]]
+name = "Github"
+link = "https://github.com/wind2sing"
